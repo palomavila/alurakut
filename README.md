@@ -13,7 +13,7 @@ Este projeto foi desenvolvido de 12 a 16 de Julho de 2021 durante a Imersão Rea
 - Para conferir, acesse o [FIGMA](< https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A0>) do projeto.
 
 # 💯 Preview:
-- Para conferir como ficou, acesse o [Deploy](alurakut-revival.netlify.app). <br />
+- Para conferir como ficou, acesse o [Deploy](https://alurakut-revival.netlify.app). <br />
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a2984f25-f759-4197-988b-edd9a2e90224/deploy-status)](https://app.netlify.com/sites/alurakut-revival/deploys)
 
 
